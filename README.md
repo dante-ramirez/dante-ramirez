@@ -18,20 +18,16 @@ Looking for opportunities to boost my professional development. ⚜.</h3>
   <br/>
 </div>
 
-<!--
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dante Ramírez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dante-ramirez&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<h2>💻 Profile Stats</h2>
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dante-ramirez&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
--->
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dante Ramírez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dante-ramirez&show_icons=true&count_private=true&theme=algolia" height="208px"/></a>
+<br/>
+&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dante-ramirez&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
 <h2> 🛠️ | Languages, Frameworks, and Tools </h2>
 <table align="center">
